@@ -1,0 +1,27 @@
+{
+  "geode": "5.10.1",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081",
+    "mac": "2.2081",
+    "ios": "2.2081"
+  },
+  "version": "v1.2.5-sakura.1",
+  "id": "jay.sakura_frame_window",
+  "name": "Sakura Frame Window",
+  "developer": "Jay",
+  "description": "Sakura-themed edition of Frame Window Counter (by C0nscious).",
+  "early-load": false,
+  "tags": [
+    "utility",
+    "customization"
+  ],
+  "links": {
+    "source": "https://github.com/hyper-5/frame-window-counter"
+  },
+  "resources": {
+    "sprites": [
+      "resources/*.png"
+    ]
+  }
+}
